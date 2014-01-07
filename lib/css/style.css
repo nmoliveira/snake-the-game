@@ -1,0 +1,23 @@
+#canvas {
+	border: 1px solid #0000ff;
+	padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+body {
+	color: #0000ff;
+}
+h1 {
+	text-align: center;
+	font-family: '3X5';
+}
+@font-face {
+	font-family: '3X5';
+	src: url('fonts/3X5.TTF');
+}
+p {
+	text-align: center;
+	font-family: 'Lucida Console';
+}
