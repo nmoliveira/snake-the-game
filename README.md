@@ -2,9 +2,9 @@ Snake the Game
 ==============
 
 
-This is a simple HTML5 game.
+Simple HTML5 remake of the popular game Snake
 
-It uses canvas for drawings and plain javascript for the game engine.
+It uses canvas for drawings and plain javascript for the game logic.
 
 You can play it at:
 
